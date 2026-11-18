@@ -27,9 +27,7 @@ O **Segunda Mesa** conecta comércios com excedente de alimentos (padarias, rest
 
 Tela única (`HomeScreen`): Destaques → Categorias (filtro) → Lotes disponíveis. Ao tocar em uma categoria, a lista de lotes é recomposta com o filtro aplicado.
 
-## Prints das telas
 
-> Inserir aqui os prints do app rodando (por exemplo, em `docs/prints/`): tela inicial, filtro por categoria e estado de lista vazia.
 
 ## Fonte dos dados
 
